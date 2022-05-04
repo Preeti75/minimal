@@ -21,7 +21,7 @@ band from Microsoft.
 
 ## Project 3
 
-Created a Object-Detection Model on Microsoft Azure Platform.
+Created an Object-Detection Model on Microsoft Azure Platform.
 
 #### Header 4
 
